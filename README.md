@@ -15,3 +15,13 @@ Change the configs
 
 Step 3 :
 Run this code on your terminal : python bot.py
+
+
+
+
+
+
+
+IMPORTANT
+
+If you are using my bot, please put credits to the github.
