@@ -3,7 +3,7 @@ from discord.ext import commands
 from datetime import timedelta
 from groq import Groq
 
-# ========== 🔐 CONFIG ==========
+# Configs
 DISCORD_TOKEN = "your_bot_token"
 GROQ_API_KEY = "groq_api_key"
 TIMEOUT_MINUTES = 60 * 60 # Set timeout duration
